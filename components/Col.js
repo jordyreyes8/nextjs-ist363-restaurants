@@ -1,5 +1,5 @@
 import classNames from 'classnames/bind'
-import styles from './col.module.scss';
+import styles from './Col.module.scss';
 
 let cx = classNames.bind(styles);
 
